@@ -1,2 +1,2 @@
-/tmp/correction/7153848138187833359532694887539516564424_5/212/94205/0x00-hello_world/0-preprocessor doesn't contain ^#!\s*/bin/bash
+#!/bin/bash
 it should be 2
